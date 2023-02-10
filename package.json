@@ -1,0 +1,19 @@
+{
+  "name": "codespaces",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azkar17/codespaces.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azkar17/codespaces/issues"
+  },
+  "homepage": "https://github.com/azkar17/codespaces#readme"
+}
