@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/azkar17/codespaces/issues"
   },
-  "homepage": "https://github.com/azkar17/codespaces#readme"
+  "homepage": "https://github.com/azkar17/codespaces#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
